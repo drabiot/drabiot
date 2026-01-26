@@ -3,8 +3,8 @@
   <h3>🎓 42 Angoulême's Student</h3>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=pgbmax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/pgbmax?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=drabiot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/drabiot?label=Followers&style=social" alt="GitHub Followers" />
   </p>
 </div>
 
