@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🎮 **Passionate developer** exploring the world of systems programming and graphics
-- 🔭 I'm currently working on **[42run](https://github.com/drabiot/42run)** & **[ft_vox](https://github.com/drabiot/ft_vox)** & [lem_in](https://github.com/drabiot/lem_in)
+- 🔭 I'm currently working on **[42run](https://github.com/drabiot/42run)**, **[ft_vox](https://github.com/drabiot/ft_vox)** & [lem_in](https://github.com/drabiot/lem_in)
 - 🌱 I'm currently learning **Opengl to do Graphic & Gaming c++ Project**
 - 💡 **Interested in:** Graphics programming, game development & be level designer
 
