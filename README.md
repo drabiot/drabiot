@@ -13,8 +13,9 @@
 ## 🚀 About Me
 
 - 🎮 **Passionate developer** exploring the world of systems programming and graphics
-- 🔭 I'm currently working on **[42run](https://github.com/drabiot/42run)**, **[ft_vox](https://github.com/drabiot/ft_vox)** & [lem_in](https://github.com/drabiot/lem_in)
-- 🌱 I'm currently learning **Opengl to do Graphic & Gaming c++ Project**
+- 🔭 I'm currently working on **[Learn2SLither](https://github.com/drabiot/Learn2SLither)** & **[dslr](https://github.com/drabiot/dslr)** 42's project
+- 🔥 But I have personal project I'm working on like **[Zelda Ocarina of Time Datapack](https://github.com/drabiot/Zelda_OOT_datapack)** & **[Zelda Ocarina of Time Ressource pack](https://github.com/drabiot/Zelda_OOT_texturepack)**, used for my Minecraft adventure map!
+- 🌱 I'm currently learning **AI creation** 
 - 💡 **Interested in:** Graphics programming, game development & be level designer
 
 
